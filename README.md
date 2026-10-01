@@ -13,10 +13,12 @@ Technical professional with a solid foundation in offensive and defensive securi
 • Python Backend Development | Python Institute's PCAP
 • High-Performance Intensive Reskilling Programme | IT Academy – Cibernàrium (Barcelona Activa)
 
-📁 Featured Projects
-• 🛠️ Proyectos-Ciberseguridad- – Technical Portfolio featuring practical labs on Linux process analysis, Threat Hunting, Cisco networking, and incident management in SOC environments.
-	• 🔹 LAB-1: Real-time Process Analysis and Socket Auditing on Linux
-	• 🔹 LAB-2: Deploying an Nginx Web Server and Analysing Audit Logs (Baseline)
+### 📁 Featured Projects
+
+* 🛠️ **[Proyectos-Ciberseguridad-](https://github.com)** – Technical Portfolio featuring practical labs on Linux process analysis, Threat Hunting, Cisco networking, and incident management in SOC environments.
+
+  * 🔹 **LAB-1:** Real-time Process Analysis and Socket Auditing on Linux
+  * 🔹 **LAB-2:** Deploying an Nginx Web Server and Analysing Audit Logs (Baseline)
 
   🌐 Languages
 • Spanish / Portuguese: Native
