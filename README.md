@@ -19,6 +19,12 @@ Technical professional with a solid foundation in offensive and defensive securi
 
   * 🔹 **LAB-1:** Real-time Process Analysis and Socket Auditing on Linux
   * 🔹 **LAB-2:** Deploying an Nginx Web Server and Analysing Audit Logs (Baseline)
+  * 🔹 **LAB-3:** Personal Threat Intelligence Portal — Static cybersecurity portfolio with hardened client-side security controls and automated CVE feed integration:
+    - Content Security Policy (CSP) restricting script, style and connection sources.
+    - XSS mitigation via `textContent` (no `innerHTML` with external data).
+    - Outbound link hardening with `rel="noopener noreferrer"`.
+    - RFC 9116 vulnerability disclosure (`/.well-known/security.txt`).
+    - Live CVE ingestion from the CIRCL threat intelligence API.
 
   🌐 Languages
 • Spanish / Portuguese: Native
